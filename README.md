@@ -1,7 +1,7 @@
 # Angular11ColorPickerApp
 
 
-The [Angular Color Picker](https://www.syncfusion.com/angular-ui-components/angular-color-picker?utm_source=github&utm_medium=listing&utm_campaign=angular-color-picker-github-samples). Angular Color Picker component allows you to pick colors either by selecting them from the color picker container or by adjusting the hue and opacity. This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.3.
+The [Angular Color Picker](https://www.syncfusion.com/angular-ui-components/angular-color-picker?utm_source=github&utm_medium=listing&utm_campaign=angular-color-picker-github-samples) allows you to pick colors either by selecting them from the color picker container or by adjusting the hue and opacity. This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.3.
 
 ## Development server
 
