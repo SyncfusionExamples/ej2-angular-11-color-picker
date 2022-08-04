@@ -47,7 +47,7 @@ You can render the Color Picker container alone. It allows you to access the pic
 Seamlessly supports HTML forms, template-driven forms (Angular), and reactive forms.
 
 ## Related links
-[Learn More about Angular Color Picker ](https://www.syncfusion.com/angular-ui-components/angular-color-picker?utm_source=github&utm_medium=listing&utm_campaign=angular-color-picker-github-samples)
+[Learn More about Angular Color Picker](https://www.syncfusion.com/angular-ui-components/angular-color-picker?utm_source=github&utm_medium=listing&utm_campaign=angular-color-picker-github-samples)
 
 [Download Free Trial](https://www.syncfusion.com/downloads/angular?utm_source=github&utm_medium=listing&utm_campaign=angular-color-picker-github-samples)
 
